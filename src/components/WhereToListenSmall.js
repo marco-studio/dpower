@@ -59,8 +59,8 @@ const WhereToListenSmall = () => {
           </a>
         </li>
         <li className="w-8 ml-6 mr-6">
-          <a href={data.site.siteMetadata.beaker}>
-            <img src={beaker} alt="spotify" />
+          <a href={data.site.siteMetadata.stitcher}>
+            <img src={stitcher} alt="spotify" />
           </a>
         </li>
         <li className="w-8 ml-6 mr-6">
